@@ -1,0 +1,10 @@
+Taff,Small meeting room on 2nd floor,8
+Llangorse,Large meeting room on 2nd floor,24
+Pen Y Fan,Teaching space on 2nd floor,70
+Usk,Small meeting room on 3rd floor,8
+Bala,Large meeting room on 3rd floor,24
+Cadair Idris,Teaching space on 3rd floor,70
+Wye,Small meeting room on 4th floor,8
+Gower,Open meeting/break-out space on 4th floor,24
+Snowdon,Teaching space on 4th floor,70
+New Room,Some place,200
