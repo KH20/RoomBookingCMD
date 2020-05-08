@@ -7,4 +7,3 @@ Cadair Idris,Teaching space on 3rd floor,70
 Wye,Small meeting room on 4th floor,8
 Gower,Open meeting/break-out space on 4th floor,24
 Snowdon,Teaching space on 4th floor,70
-New Room,Some place,200
